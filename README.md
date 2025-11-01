@@ -8,9 +8,9 @@
 
 # 🧩 Overview
 
-This project implements **arbitrary-precision arithmetic** (addition, subtraction, and comparison) in Java using **ArrayLists** to store and manipulate very large integers — far beyond the range of standard data types like `int` and `long`.
+This project implements **arbitrary-precision arithmetic** (addition, subtraction, and comparison) in Java using **ArrayLists** to store and manipulate very large integers far beyond the range of standard data types like `int` and `long`.
 
-It simulates the logic of manual arithmetic — digit by digit — while leveraging **object-oriented design** and **data structures** for efficient computation.
+It simulates the logic of manual arithmetic digit by digit while leveraging **object-oriented design** and **data structures** for efficient computation.
 
 Think of it as a **custom-built version of Java’s BigInteger**, coded entirely from scratch.
 
